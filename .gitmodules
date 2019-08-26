@@ -1,0 +1,4 @@
+[submodule "LittleCoins"]
+	path = LittleCoins
+	url = https://github.com/gariel/LittleCoins
+	branch = master
