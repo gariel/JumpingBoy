@@ -4,11 +4,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Sweet Jumper")]
-[assembly: AssemblyDescription("Sweet Jumper Game")]
+[assembly: AssemblyTitle("Jumping Boy")]
+[assembly: AssemblyDescription("Jumping Boy Game")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("gariel")]
-[assembly: AssemblyProduct("Sweet Jumper")]
+[assembly: AssemblyProduct("Jumping Boy")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
